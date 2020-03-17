@@ -12,5 +12,5 @@ newmtl Material__8
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka \T_Fanged_Mutant_Rat_a_skin_2.jpg
-	map_Kd \T_Fanged_Mutant_Rat_a_skin_2.jpg
+	map_Ka T_Fanged_Mutant_Rat_a_skin_2.jpg
+	map_Kd T_Fanged_Mutant_Rat_a_skin_2.jpg
