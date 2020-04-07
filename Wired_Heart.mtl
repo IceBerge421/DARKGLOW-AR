@@ -12,4 +12,4 @@ newmtl 07___Default
 	Kd 0.0000 0.0000 0.0000
 	Ks 1.0800 1.0800 1.0800
 	Ke 0.0000 0.0000 0.0000
-	map_refl Map__21_Mask.tga
+	map_refl \Map__21_Mask.tga
